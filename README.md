@@ -28,8 +28,10 @@ Output
 Display the original message that generated the given ciphertext using the given secret word.
 
 Sample Input 1	
+
 SGZVQBUQAFRWSLC
 ACM
 
 Sample Output 1
+
 SENDMOREMONKEYS
