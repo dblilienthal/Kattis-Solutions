@@ -30,6 +30,7 @@ Display the original message that generated the given ciphertext using the given
 Sample Input 1	
 
 SGZVQBUQAFRWSLC
+
 ACM
 
 Sample Output 1
